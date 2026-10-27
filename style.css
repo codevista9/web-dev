@@ -1,0 +1,82 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0 20px 20px 20px;
+    background-color:ghostwhite;
+}
+
+h1{
+    color:turquoise;
+    margin:20px 0 10px 0;
+    padding-bottom:5px ;
+    border-bottom: 2px solid black;
+}
+
+h2{
+    color: darkseagreen;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    position: relative;
+    border: 3px solid gold;
+}
+
+header{
+    position:sticky;
+    top:0;
+    background-color: lightpink;
+    padding: 10px;
+}
+
+nav ul{
+    margin: 0;
+    padding:0;
+}
+
+
+main{
+    position: static;
+    margin: 20px 0;
+    padding:15px;
+}
+
+footer{
+    position: relative;
+    margin:20px 0;
+    padding:15px;
+}
+
+th{
+    background-color:azure;
+    color: rgb(0,0,225);
+    padding:10px;
+    border:2px solid black;
+}
+
+td{
+     background-color:azure;
+     color:purple;
+     padding: 10px;
+}
+
+#contact{
+    padding:15px;
+    border:1px
+}
+
+input{
+    padding: 5px;
+    margin:5px;
+}
+
+button{
+    background-color:azure;
+    color:red;
+    border:2px solid black;
+}
+
+button:hover{
+    color:black
+}
